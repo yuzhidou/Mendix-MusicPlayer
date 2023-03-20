@@ -1,0 +1,10 @@
+Buildfile: D:\MusicPlayer\deployment\build_core.xml
+
+clean:
+   [delete] Deleting directory D:\MusicPlayer\deployment\model
+   [delete] Deleting directory D:\MusicPlayer\deployment\run
+
+BUILD SUCCESSFUL
+Total time: 0 seconds
+
+

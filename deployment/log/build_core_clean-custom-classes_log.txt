@@ -1,0 +1,8 @@
+Buildfile: D:\MusicPlayer\deployment\build_core.xml
+
+clean-custom-classes:
+
+BUILD SUCCESSFUL
+Total time: 0 seconds
+
+

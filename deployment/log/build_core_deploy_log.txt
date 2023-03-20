@@ -1,0 +1,11 @@
+Buildfile: D:\MusicPlayer\deployment\build_core.xml
+
+deploy:
+     [copy] Copying 52 files to D:\MusicPlayer\deployment
+     [copy] Copying 58 files to D:\MusicPlayer\deployment\model\lib\userlib
+     [copy] Copying 5 files to D:\MusicPlayer\deployment\model\resources
+
+BUILD SUCCESSFUL
+Total time: 0 seconds
+
+
